@@ -35,6 +35,11 @@ This project is an Android application built using Kotlin, XML, and the MVVM arc
   Implements API integration using Retrofit with MVVM. The fragment contains a button to fetch API data, shows a progress loader, and displays the API response.
 
 
+## APK Release
+
+The compiled debug APK is available under the [Releases](https://github.com/viikii007/task-recycler/releases/tag/apk)section of this repository. You can download the latest APK, install it on your Android device, and test the application without building it locally.
+
+
 ### How to Run
 
 1. **Clone the Repository:**
